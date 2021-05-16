@@ -12,10 +12,4 @@ Code for the paper: "Improving Stylized Neural Machine Translation with Iterativ
 - [subword](https://github.com/rsennrich/subword-nmt)
 - [fairseq](https://github.com/pytorch/fairseq)
 
-## How to use
 
-
-
-## License
-
-See the LICENSE file
